@@ -1,0 +1,183 @@
+.img{
+    width: 128px;
+    margin-left: 100px;
+}
+.menu{
+    border: 1px solid black;
+    background-color: black;
+    height: 65px;
+}
+li{
+    display: inline-flex;
+    margin-right: 90px;
+    color: aliceblue;
+}
+.nab{
+    margin-left: 500px;
+    align-items: flex-start;
+    vertical-align: text-top;
+    margin-top: -40px;
+    margin-bottom: 20px;
+}
+*{
+    background-color: black;
+}
+.btn1{
+    border: 1px solid  rgb(255, 255, 255) ;     
+    border-radius: 20px;
+    width: 30px;
+    width: 120px;
+}
+.btn2{
+    border: 1px solid  rgb(255, 255, 255) ;     
+    border-radius: 20px;
+    background-color: red;
+    width: 120px;
+}
+.gtf{
+    color: aliceblue;
+}
+.gtt{
+    color: rgb(255, 255, 255);
+    background-color: red;
+}
+.button{
+    margin-left: 1100px;
+    align-items: flex-start;
+    vertical-align: text-top;
+    margin-top: -50px;
+    margin-bottom: 20px;
+}
+.bnr{
+    width: 1900px;
+}
+i{
+    background-color: transparent;
+}
+div{
+    color: aliceblue;
+}
+.p{
+    color: gray;
+}
+.log{
+    background-color: aliceblue;
+    display: inline-block;
+    display: table;
+    margin-left: -400px;
+    border-radius: 10px;
+
+}
+.lov{
+    background-color: aliceblue;
+    display: inline-block;
+    display: table;
+    margin-top: -105px;
+    margin-bottom: 200px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.loe{
+    background-color: aliceblue;
+    display: inline-block;
+    display: table;
+    margin-left: 600px;
+    margin-top: -307px;
+    margin-bottom: 200px;
+    border-radius: 10px;
+}
+.btn3{
+    border: 1px solid  rgb(255, 255, 255) ;     
+    border-radius: 20px;
+    width: 30px;
+    width: 200px;
+    border-radius: 500px;
+  
+}
+.btn4{
+    border: 1px solid  rgb(255, 255, 255) ;     
+    border-radius: 20px;
+    width: 30px;
+    width: 200px;
+    
+}
+.btn5{
+    border: 1px solid  rgb(255, 255, 255) ;     
+    border-radius: 50px;
+    width: 30px;
+    width: 200px;
+    margin-left: 580px;
+    margin-top: -45px;
+}
+.btn8{
+    margin-top: -190px;
+    margin-left: 540px;
+    margin-top: -140px;
+}
+.is{
+    margin-left: 200px;
+
+}
+.bn2{
+    margin-left: 500px;
+    margin-top: -150px;
+}
+.bn1{
+    margin-left: -210px;
+}
+.ii{
+    margin-left: 200px;
+    margin-top: -200px;
+}
+.parent{
+    background-image: url(a.webp);
+}
+.im{
+    margin-top: 90px;
+}
+
+.juice{
+    width: 300px;
+}
+.fri{
+    width: 300px;
+}
+.burg{
+    width: 300px;
+}
+.BURGR{
+    width: 300px;
+}
+.chesse{
+    width: 300px;
+}
+.parent2{
+    margin-top: 50px;
+}
+.footer{
+    margin-top: 40px;
+}
+.def{
+    justify-content: ;
+    margin-left: 100px;
+    color: gray;
+}
+.sitelinks{
+    margin-left: 700px;
+    margin-top: -240px;
+}
+.follow{
+    margin-left: 200px;
+    margin-top: -240px;
+}
+.FOL{
+    margin-left: 200px;
+    
+}
+.bor{
+    background-color: rgb(63, 70, 70);
+}
+}
+.footer{
+    background-color: rgb(63, 70, 70);
+}
